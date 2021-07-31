@@ -1,0 +1,193 @@
+body{
+	font-family: 'Recursive', sans-serif;
+}
+
+.cart {
+    margin-top: 52px;
+    position: absolute;
+    min-height: 10rem;
+    background: var(--mainWhite);
+    top: 0;
+    right: 0;
+    transition: all 0.3s ease-in-out;
+    background: rgba(255, 255, 255, 0.5);
+    width: 0;
+    overflow: hidden;
+  }
+  .show-cart {
+    width: 18rem;
+    padding: 2rem 1.5rem;
+    
+  }
+
+.footer{
+    height: 400px;
+    background-color: #87cae4;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.footerrow{
+    margin: 0 auto;
+    width: 60%;
+    text-align: left;
+}
+
+.main-img {
+	margin-bottom: 0px;
+}
+
+.intro {
+	margin-top: 50px;
+	text-align: center;
+}
+
+.introAns {
+	margin: 0 auto;
+	width: 700px;
+	font-size: 20px;
+}
+
+.ill {
+	padding: 0px;
+	height: 350px;
+}
+
+.box {
+	background-color: #87cae4; 
+    color: white;
+	width: 75%;
+	margin: 150px auto;
+	border: medium solid lightblue;
+	box-shadow: 3px 3px 30px black;
+}
+
+.products{
+    width: 75%;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+
+
+
+.a {
+	color: white;
+	font-size: 23px;
+}
+
+.pj{
+    font-size: 22px;
+}
+
+.ct {
+	color: white;
+	margin-top: 20px;
+}
+
+.ab {
+	font-size: 22px;
+	color: white;
+}
+
+.cause li{
+	text-align: left;
+	font-size: 18px;
+	color: white;
+}
+
+
+.mli {
+	border-right: medium solid white;
+}
+body {
+    background: white;
+    
+}
+
+.blurb h2 {
+   color: #EA1C2C;
+   font-weight: 100;
+   font-size: 2.5rem;
+}
+
+.blurb p {
+    color: #f498b8;
+    font-weight: 100;
+    font-size: 1.125rem;
+    line-height: 2;
+}
+
+.content {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+#mainNavbar {
+    font-size: 1.5rem;
+    font-weight: 100;
+    background-color: rgba(2, 7, 93, 0.8);    
+}
+
+#helpnumber{
+    color: #EA1C2C;
+
+}
+
+#mainNavbar .nav-link {
+    color: white;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #EA1C2C;
+}
+
+#mainNavbar .navbar-brand {
+    color: #EA1C2C;
+    font-size: 1.5rem;
+}
+#mainNavbar.scrolled {
+    background-color: #112832;
+    transition: background 500ms;
+}
+.navbar-brand{
+    font-size: 25px;
+}
+#help{
+    color: #EA1C2C;
+}
+
+
+#myBtn{
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: #e62739;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+    color: #ffffff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+
+
+.page-footer{
+    background-color:#0E0B20;
+    color:#DEDAF7 ;
+}
+
+.fb-ic{
+    color:red;
+    font-size: 1.225rem;
+}
+.tw-ic{
+    color:purple;
+    font-size: 1.225rem;
+}
+.ins-ic{
+    color:pink;
+    font-size: 1.225rem;
+}
